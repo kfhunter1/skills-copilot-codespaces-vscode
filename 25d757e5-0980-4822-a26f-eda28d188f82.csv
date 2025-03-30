@@ -1,0 +1,4 @@
+"""'Workflow""","""'Has job failures""","""'Avg run time""","""'Workflow runs""","""'Jobs"""
+"""'.github/workflows/run_tests.yaml""",0.00,259776,20,2
+"""'.github/workflows/on_pull_request.yaml""",0.00,13127,20,4
+"""'.github/workflows/warns_merge_master.yml""",100.00,2475,6,2
